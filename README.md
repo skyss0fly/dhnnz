@@ -4,7 +4,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<code><img alt="Php" height="20px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png"/></code>](https://www.php.net/)
+[<code><img alt="PocketMine" height="20px" src="https://avatars3.githubusercontent.com/u/3150836?s=200&v=4"/></code>](https://github.com/pmmp/PocketMine-MP)
+[<code><img alt="Poggit" height="20px" src="https://avatars2.githubusercontent.com/u/22427965?s=400&u=ab2083244b63dc147f5841cd9e5399634a8b0853&v=4"/></code>](https://poggit.pmmp.io)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
