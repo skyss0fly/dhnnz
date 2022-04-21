@@ -1,4 +1,4 @@
-# Hi im dhnnz - @ZenuxNetwork[git]
+# Hi im dhnnz - [ZenuxNetwork][git]
 
 ### Languages and Tools:
 
