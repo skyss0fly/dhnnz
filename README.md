@@ -19,12 +19,12 @@
 
 ## My Stats:
 
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dhnzz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Dhnzz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <br>
 
 ## My Langs:
 
-<img align="left" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhnnz&layout=compact&bg_color=09131B&title_color=fff&text_color=fff" />
+<img align="left" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnnz&layout=compact&bg_color=09131B&title_color=fff&text_color=fff" />
 
 <br>
 
