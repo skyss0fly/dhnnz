@@ -20,7 +20,7 @@
 
 ## My Langs:
 
-<img align="left" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnnz&layout=compact&bg_color=09131B&title_color=fff&text_color=fff" />
+<img align="left" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhnnz&langs_count=8" />
 
 <br>
 
