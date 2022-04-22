@@ -16,7 +16,6 @@
 ## My Stats:
 
 <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Dhnzz&show_icons=true&hide_border=false&title_color=277ECD&icon_color=25C059&bg_color=FFFFFFB&text_color=ABABAB&border_color=0c1a25" />
-<br>
 
 ## My Langs:
 
