@@ -7,8 +7,6 @@
 [<img align="left" alt="Poggit" height="20px" src="https://avatars2.githubusercontent.com/u/22427965?s=400&u=ab2083244b63dc147f5841cd9e5399634a8b0853&v=4"/></code>](https://poggit.pmmp.io)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/channel/UCZPaA1QBzq0lyVTroL5CPzQ)
 
 <br>
 <br>
