@@ -1,4 +1,4 @@
-# dhnnz - [@ZenuxNetwork][git]
+# dhnnz
 
 ### Languages and Tools:
 
